@@ -1,0 +1,7 @@
+.vs/
+.VS/**
+*.pdb
+[Bb]in
+[Oo]bj
+x64
+x86
